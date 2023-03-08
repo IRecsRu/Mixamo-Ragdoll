@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea2a9d9d7f634288a5a66756a8eb05c7, type: 3}
+  m_Name: MixamoRigNames
+  m_EditorClassIdentifier: 
+  Name: Mixamo Main
+  RigKeys:
+  - Name: Pelvis
+    PointType: 1
+    KeysName:
+    - mixamorig:Hips
+  - Name: LeftHips
+    PointType: 2
+    KeysName:
+    - mixamorig:LeftUpLeg
+  - Name: LeftKnee
+    PointType: 3
+    KeysName:
+    - mixamorig:LeftLeg
+  - Name: LeftFoot
+    PointType: 4
+    KeysName:
+    - mixamorig:LeftFoot
+  - Name: RightHips
+    PointType: 5
+    KeysName:
+    - mixamorig:RightUpLeg
+  - Name: RightKnee
+    PointType: 6
+    KeysName:
+    - mixamorig:RightLeg
+  - Name: RightFoot
+    PointType: 7
+    KeysName:
+    - mixamorig:RightFoot
+  - Name: LeftArm
+    PointType: 8
+    KeysName:
+    - mixamorig:LeftArm
+  - Name: LeftElbow
+    PointType: 9
+    KeysName:
+    - mixamorig:LeftForeArm
+  - Name: RightArm
+    PointType: 10
+    KeysName:
+    - mixamorig:RightArm
+  - Name: RightElbow
+    PointType: 11
+    KeysName:
+    - mixamorig:RightForeArm
+  - Name: MiddleSpine
+    PointType: 12
+    KeysName:
+    - mixamorig:Spine
+  - Name: Head
+    PointType: 13
+    KeysName:
+    - mixamorig:Head
