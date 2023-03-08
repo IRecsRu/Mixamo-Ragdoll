@@ -12,7 +12,7 @@ ______________________
 
 ## Как установить?
 
-Открываем  [Releases](https://github.com/IRecsRu/Mixamo-Ragdoll/releases)  выбираем самый новый, и качаем файл [MixamoRagdoll.unitypackage](https://github.com/IRecs/Fox-Audio/releases/download/TestReleases/FoxAudioManager.unitypackage). Распаковываем в проекте.
+Открываем  [Releases](https://github.com/IRecsRu/Mixamo-Ragdoll/releases)  выбираем самый новый, и качаем файл [MixamoRagdoll.unitypackage](https://github.com/IRecsRu/Mixamo-Ragdoll/releases/tag/Main). Распаковываем в проекте.
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/2c9J5yG/Picture.png" alt="Picture" border="0"></a>
 
